@@ -1,7 +1,7 @@
 # cloudflare-auto-dns
 quick ddns polling hack for changing cloudflare DNS if your ip changes
 
-## installing and usage
+## building and usage
 ```bash
 git clone https://github.com/cauefcr/cloudflare-auto-dns
 cd cloudflare-auto-dns
